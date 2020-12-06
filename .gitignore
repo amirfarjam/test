@@ -1,3 +1,4 @@
 mylog.tx
 /.vscode
 .DS_Store
+logs/
